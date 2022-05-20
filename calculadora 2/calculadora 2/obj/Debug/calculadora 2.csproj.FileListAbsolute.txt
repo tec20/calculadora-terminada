@@ -1,0 +1,11 @@
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\bin\Debug\calculadora 2.exe.config
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\bin\Debug\calculadora 2.exe
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\bin\Debug\calculadora 2.pdb
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\obj\Debug\calculadora 2.csproj.AssemblyReference.cache
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\obj\Debug\calculadora 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\obj\Debug\calculadora_2.Form1.resources
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\obj\Debug\calculadora_2.Properties.Resources.resources
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\obj\Debug\calculadora 2.csproj.GenerateResource.cache
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\obj\Debug\calculadora 2.csproj.CoreCompileInputs.cache
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\obj\Debug\calculadora 2.exe
+C:\Users\TASGt\Desktop\libros\curso C#\calculadora 2\calculadora 2\obj\Debug\calculadora 2.pdb
